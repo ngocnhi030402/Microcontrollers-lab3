@@ -1,0 +1,3 @@
+../Core/Src/input_reading.c:37:6:button_reading	16	static
+../Core/Src/input_reading.c:72:6:subKeyProcess	16	static
+../Core/Src/input_reading.c:76:5:isBtnPressed	16	static
